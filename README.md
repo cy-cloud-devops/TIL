@@ -1,2 +1,13 @@
-# TIL
-TIL (Today I Learned): Notes and practices on Network, Linux, Python, and Cloud/DevOps.
+# TIL (Today I Learned)
+
+네트워크, 리눅스, 파이썬을 중심으로 학습한 내용을 기록합니다.  
+Cloud & DevOps 엔지니어를 목표로 꾸준히 정리하고 있습니다.
+
+## 📂 구조
+- `Network/` : 네트워크 기초 및 개념
+- `Linux/` : 리눅스 학습
+- `Python/` : 파이썬 학습
+
+## 🎯 목표
+- 배운 내용을 기록하고 복습
+- 클라우드·DevOps 엔지니어로 성장하기 위한 기반 쌓기
