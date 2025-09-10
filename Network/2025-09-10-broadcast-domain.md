@@ -9,7 +9,7 @@
   - **멀티캐스트 (Multicast)**: 나 → 특정 그룹 (예: 동아리 단톡방)
   - **브로드캐스트 (Broadcast)**: 나 → 이 네트워크에 있는 모두 (예: 교실 전체에 방송)
 
-![unicast-multicast-broadcast 비교 다이어그램](./assets/unicast-vs-broadcast.png)
+![unicast-multicast-broadcast 비교 다이어그램](../assets/unicast-vs-broadcast.png)
 
 ---
 
@@ -24,7 +24,7 @@
 - **스위치(Switch)**: 기본적으로는 허브랑 비슷하지만, VLAN으로 쪼갤 수 있음.  
 - **라우터(Router)**: 브로드캐스트 메시지를 다른 네트워크로 전달하지 않음 → 도메인을 나누는 경계.
 
-![hub, switch, router 별 broadcast domain 비교 그림](./assets/broadcast-domain.png)
+![hub, switch, router 별 broadcast domain 비교 그림](../assets/broadcast-domain.png)
 
 ---
 
