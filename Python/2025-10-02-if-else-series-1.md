@@ -14,7 +14,7 @@ else:
     print("음수 또는 0입니다.")
 ```
 
-![양수/음수 판별 캡처](./assets/python/ifelse1.png)
+![](./assets/python/ifelse1.png)
 
 **실행결과:**
 ```
@@ -34,7 +34,7 @@ else:
     print("불합격입니다.")
 ```
 
-![합격/불합격 캡처](./assets/python/ifelse2.png)
+![](./assets/python/ifelse2.png)
 
 **실행결과:**
 ```
@@ -66,7 +66,7 @@ else:
     print("F 학점")
 ```
 
-![학점 판별 캡처](./assets/python/ifelse3.png)
+![](./assets/python/ifelse3.png)
 
 **실행결과:**
 ```
@@ -96,7 +96,7 @@ else:
     print("가장 큰 수:", c)
 ```
 
-![세 수 중 최댓값 캡처](./assets/python/ifelse4.png)
+![](./assets/python/ifelse4.png)
 
 **실행결과:**
 ```
